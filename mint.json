@@ -28,7 +28,7 @@
     },
     {
       "name": "API Reference",
-      "url": "api-reference3"
+      "url": "api2"
     }
   ],
   "navigation": [
@@ -52,6 +52,13 @@
         "api-reference/endpoint/update",
         "api-reference/endpoint/delete"
       ]
+    }{
+      "group": "API Documentation2",
+      "pages": ["api2/test"]
+    },
+    {
+      "group": "Endpoint Examples",
+      "pages": ["api2/test","api2/test","api2/test"]
     }
   ],
   "footerSocials": {
